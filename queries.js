@@ -2,9 +2,9 @@
 const mysql = require('mysql');
 
 const connection = mysql.createConnection({
-    host: "localhost",
+    host: "localhost,
     user: "root",
-    password: "Elmercanelo123"
+
 });
 <<<<<<< Updated upstream
 
@@ -20,3 +20,8 @@ connection.query();
 let quering = "INSERT INTO table";
 =======
 >>>>>>> Stashed changes
+
+
+"dancing asf heheheh"
+'\n'
+\n
