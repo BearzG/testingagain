@@ -15,3 +15,5 @@ console.log(element);
 username = "jejeje"
 
 connection.query();
+
+let quering = "INSERT INTO table";
