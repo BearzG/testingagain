@@ -6,6 +6,7 @@ const connection = mysql.createConnection({
     user: "root",
     password: "Elmercanelo123"
 });
+<<<<<<< Updated upstream
 
 var element = "Elmer";
 var element = "Hachy";
@@ -17,3 +18,5 @@ username = "jejeje"
 connection.query();
 
 let quering = "INSERT INTO table";
+=======
+>>>>>>> Stashed changes
